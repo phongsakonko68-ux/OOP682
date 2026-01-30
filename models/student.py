@@ -8,3 +8,4 @@ class Student(Person):
 
     def __str__(self):
         return f"Student ID: {self.Student_id}, Name: {self.name}, Age: {self.age}"
+    
